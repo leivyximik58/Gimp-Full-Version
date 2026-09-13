@@ -257,4 +257,4 @@ This repository serves as the official landing page for GIMP. The software is di
 **Get the most recent version of GIMP today!**
 
 ---
-**Last updated:** 2026-09-13 00:46:10 UTC
+**Last updated:** 2026-09-13 05:52:52 UTC
